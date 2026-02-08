@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="projet.png" width="700">
+<img src="images/projet.png" width="700">
 </p>
 
 # Projet Data/IA – Analyse des Ressources Hydrauliques en Tunisie
